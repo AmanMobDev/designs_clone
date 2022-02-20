@@ -1,16 +1,3 @@
 # designs_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new flutter project for UI Samples.<img width="847" alt="Screenshot 2022-02-20 at 11 54 03 PM" src="https://user-images.githubusercontent.com/75611515/154858218-d134c6cf-e8ed-4506-8b74-c94f7313bf9c.png">
