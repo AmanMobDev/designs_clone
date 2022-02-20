@@ -1,3 +1,5 @@
 # designs_clone
 
-A new flutter project for UI Samples.<img width="847" alt="Screenshot 2022-02-20 at 11 54 03 PM" src="https://user-images.githubusercontent.com/75611515/154858218-d134c6cf-e8ed-4506-8b74-c94f7313bf9c.png">
+A new flutter project for UI Samples.
+![Simulator Screen Shot - iPhone 13 mini - 2022-02-21 at 00 05 40](https://user-images.githubusercontent.com/75611515/154858372-6bc24593-82b2-48b2-b854-1e05be08713b.png)
+![Uploading Screenshot_20220221_000418.png…]()
